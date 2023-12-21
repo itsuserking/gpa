@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GPA</title>
+    <link rel="stylesheet" href="/css/bs.css">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header>
+        <h1 class="text-center bg-dark text-white p-3"><span class="fw-bolder">GPA Calculator</span></h1>
+    </header>
+    <main>
+        <div class="container p-4 rounded-3 shadow-lg mb-5">
+            <form action="#" class="p-3" id="gpaForm">
+                <div class="select-dept form-floating mb-3">
+                    
+                    <select name="dept" id="dept" class="form-select form-select-lg h-25" aria-label="Select Department">
+                        
+                    </select>
+                    <label for="dept" class="">Select Department</label>
+                </div>
+
+                <div class="select-sem form-floating mb-3" style="display: none;">
+                    <select name="sem" id="semester" class="form-select form-select-lg" aria-label="Select Semester">
+                        
+                    </select>
+                    <label for="semester">Select Semester</label>
+                </div>
+
+
+                <!-- Container to dynamically list courses -->
+                <div class="course-container">
+                    <!-- courses will be dynamically added here -->
+                </div>
+
+                <div class="text-center mt-4" id="submit" style="display: none;">
+                    <input type="submit" name="submit" class="btn btn-secondary" value="Calculate GPA">
+                </div>
+            </form>
+            <div id="result" class="rounded-3 text-center bg-secondary text-light p-3 mt-3 fs-1 shadow-lg mb-2" style="display: none;">
+
+            </div>
+        </div>
+    </main>
+    <footer class="position-fixed bottom-0 end-0 w-100 bg-dark text-light text-center pt-2 pb-0 ">
+        <p>&copy; 2023 GPA Calculator. All Rights Reserved. | <a class="text-light" href="https://github.com/your-github-project" target="_blank">Report an Issue</a></p>
+    </footer>
+
+    <script src="/js/bs.js"></script>
+    <script src="/json/subDetails.json"></script>
+    <script src="/js/main.js"></script>
+
+
+</body>
+</html>
