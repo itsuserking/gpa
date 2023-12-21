@@ -1,0 +1,93 @@
+{
+    "it": {
+      "semesters": {
+        "sem1": {
+          "courses": [
+            {"courseCode": "HS3151", "courseName": "Professional English - I", "credits": "3"},
+            {"courseCode": "MA3151", "courseName": "Matrices and Calculus", "credits": "4"},
+            {"courseCode": "PH3151", "courseName": "Engineering Physics", "credits": "3"},
+            {"courseCode": "CY3151", "courseName": "Engineering Chemistry", "credits": "3"},
+            {"courseCode": "GE3151", "courseName": "Problem Solving and Python Programming", "credits": "3"},
+            {"courseCode": "GE3171", "courseName": "Problem Solving and Python Programming Laboratory", "credits": "2"},
+            {"courseCode": "BS3171", "courseName": "Physics and Chemistry Laboratory", "credits": "2"}
+          ]
+        },
+        "sem2": {
+          "courses": [
+            {"courseCode": "HS3251", "courseName": "Professional English - II", "credits": "2"},
+            {"courseCode": "MA3251", "courseName": "Statistics and Numerical Methods", "credits": "4"},
+            {"courseCode": "PH3256", "courseName": "Physics for Information Science", "credits": "3"},
+            {"courseCode": "BE3251", "courseName": "Basic Electrical and Electronics Engineering", "credits": "3"},
+            {"courseCode": "GE3251", "courseName": "Engineering Graphics", "credits": "4"},
+            {"courseCode": "CS3251", "courseName": "Programming in C", "credits": "3"},
+            {"courseCode": "GE3271", "courseName": "Engineering Practices Laboratory", "credits": "2"},
+            {"courseCode": "CS3271", "courseName": "Programming in C Laboratory", "credits": "2"}
+          ]
+        },
+        "sem3": {
+          "courses":[
+            {"courseCode": "MA3354", "courseName": "Discrete Mathematics", "credits": "4"},
+            {"courseCode": "CS3351", "courseName": "Digital Principles and Computer Organization", "credits": "4"},
+            {"courseCode": "CS3352", "courseName": "Foundations of Data Science", "credits": "3"},
+            {"courseCode": "CD3291", "courseName": "Data Structures and Algorithms", "credits": "3"},
+            {"courseCode": "CS3391", "courseName": "Object Oriented Programming", "credits": "3"},
+            {"courseCode": "CD3281", "courseName": "Data Structures and Algorithms Laboratory", "credits": "2"},
+            {"courseCode": "CS3381", "courseName": "Object Oriented Programming Laboratory", "credits": "1.5"},
+            {"courseCode": "CS3361", "courseName": "Data Science Laboratory", "credits": "2"},
+            {"courseCode": "GE3361", "courseName": "Professional Development", "credits": "1"} 
+          ]
+        },
+        "sem4": {
+          "courses":[
+            {"courseCode": "CS3452", "courseName": "Theory of Computation", "credits": "3"},
+            {"courseCode": "CS3491", "courseName": "Artificial Intelligence and Machine Learning", "credits": "4"},
+            {"courseCode": "CS3492", "courseName": "Database Management Systems", "credits": "3"},
+            {"courseCode": "IT3401", "courseName": "Web Essentials", "credits": "4"},
+            {"courseCode": "CS3451", "courseName": "Introduction to Operating Systems", "credits": "3"},
+            {"courseCode": "GE3451", "courseName": "Environmental Sciences and Sustainability", "credits": "2"},
+            {"courseCode": "CS3461", "courseName": "Operating Systems Laboratory", "credits": "1.5"},
+            {"courseCode": "CS3481", "courseName": "Database Management Systems Laboratory", "credits": "1.5"}
+          ]
+        },
+        "sem5": {
+          "courses":[
+            {"courseCode": "CS3591", "courseName": "Computer Networks", "credits": "4"},
+            {"courseCode": "IT3501", "courseName": "Full Stack Web Development", "credits": "3"},
+            {"courseCode": "CS3551", "courseName": "Distributed Computing", "credits": "3"},
+            {"courseCode": "CS3691", "courseName": "Embedded Systems and IoT", "credits": "4"},
+            {"courseCode": "PE1", "courseName": "Professional Elective I", "credits": "3"},
+            {"courseCode": "PE2", "courseName": "Professional Elective II", "credits": "3"},
+            {"courseCode": "IT3511", "courseName": "Full Stack Web Development Laboratory", "credits": "2"}
+          ]
+        },
+        "sem6": {
+          "courses":[
+            {"courseCode": "CCS356", "courseName": "Object Oriented Software Engineering", "credits": "4"},
+            {"courseCode": "OE1", "courseName": "Open Elective - I", "credits": "3"},
+            {"courseCode": "PE3", "courseName": "Professional Elective III", "credits": "3"},
+            {"courseCode": "PE4", "courseName": "Professional Elective IV", "credits": "3"},
+            {"courseCode": "PE5", "courseName": "Professional Elective V", "credits": "3"},
+            {"courseCode": "PE6", "courseName": "Professional Elective VI", "credits": "3"},
+            {"courseCode": "IT3681", "courseName": "Mobile Applications Development Laboratory", "credits": "1.5"}
+          ]
+        },
+        "sem7": {
+          "courses":[
+            {"courseCode": "GE3791", "courseName": "Human Values and Ethics", "credits": "2"},
+            {"courseCode": "EM", "courseName": "Elective - Management", "credits": "3"},
+            {"courseCode": "OE2", "courseName": "Open Elective - II", "credits": "3"},
+            {"courseCode": "OE3", "courseName": "Open Elective - III", "credits": "3"},
+            {"courseCode": "OE4", "courseName": "Open Elective - IV", "credits": "3"},
+            {"courseCode": "SI", "courseName": "Summer Internship", "credits": "2"}
+          ]
+        },
+        "sem8": {
+          "courses":[
+            {"courseCode": "IT3811", "courseName": "Project Work/Internship", "credits": "10"}
+          ]
+        }
+  
+      }
+    }
+  }
+  
