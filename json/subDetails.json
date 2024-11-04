@@ -68,7 +68,7 @@
             {"courseCode": "CCS354", "courseName": "Professional Elective VI", "credits": "3"},
             {"courseCode": "CCS356", "courseName": "Object Oriented Software Engineering", "credits": "4"},
             {"courseCode": "IT3681", "courseName": "Mobile Applications Development Laboratory", "credits": "1.5"},
-            {"courseCode": "MX3089", "courseName": "Open Elective - I", "credits": "0"},
+            {"courseCode": "MX3089", "courseName": "Open Elective - I", "credits": "0"}
           ]
         },
         "sem7": {
